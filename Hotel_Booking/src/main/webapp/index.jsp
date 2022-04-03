@@ -9,11 +9,11 @@
 <body>
 <h1 style="text-align: left">Hotel Booking Application</h1>
 <form style="text-align:right;margin-right:4cm" action="signin">
-<lable style="text-align: center" for="submit"></lable>
+<label style="text-align: center" for="submit"></label>
 <input type="submit" name="submit" id="submit"  value="signin"/>
 </form>
 <form style="text-align:right;margin-right:4cm" action="login">
-<lable style="text-align: center" for="submit"></lable>
+<label style="text-align: center" for="submit"></label>
 <input type="submit" name="submit" id="submit"  value="login"/>
 </form>
 
